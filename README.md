@@ -1,4 +1,4 @@
-# Welcome to CovidX
+# Welcome to CovidX 🤠
 This repo is a coronavirus tracker bot for watsapp specially for india state and districts and global data also
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://choosealicense.com/licenses/mit/)
 
