@@ -10,7 +10,7 @@ This repo is a coronavirus tracker bot for watsapp specially for india state and
 
 Basic setup:
     
-    $ git clone https://github.com/Akshay1999/CovidX
+    $ git clone https://github.com/Adarsh1999/CovidX
     $ cd CovidX
     $ pip install pipenv
     $ pipenv shell
